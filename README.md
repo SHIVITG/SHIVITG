@@ -33,28 +33,25 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 
 ### 🔥 &nbsp; My Stats :
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github-readme-stats.vercel.app/api/top-langs?username=shivitg">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=shivitg&theme=dark&background=000000" alt="GitHub Streak" />
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivitg">
         <img src="https://github-readme-stats.vercel.app/api?username=shivitg&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Shivani's GitHub stats" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=shivitg">
+</table>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=shivitg">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivitg&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
       </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+</p>
 
 ---
 
