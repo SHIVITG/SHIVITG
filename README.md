@@ -44,8 +44,6 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
      <a href="https://github-readme-stats.vercel.app/api?username=shivitg">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivitg&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
       </a>
-
-    </td>
   </tr>
 </table>
 
