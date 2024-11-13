@@ -40,13 +40,15 @@ I am a Full-Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
         <img src="https://github-readme-stats.vercel.app/api?username=shivitg&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Shivani's GitHub stats" />
       </a>
     </td>
-  </tr>
-</table>
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=shivitg">
+  <td style="border: none;">
+     <a href="https://github-readme-stats.vercel.app/api?username=shivitg">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivitg&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
       </a>
-</p>
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
